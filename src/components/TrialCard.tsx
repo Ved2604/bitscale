@@ -80,7 +80,7 @@ const TrialCard = () => {
               </defs>
             </svg>
           </div>
-          <p className="text-zinc-600 text-sm xl:text-base">
+          <p className="text-zinc-600 text-sm xl:text-base text-left">
             Explore product capabilities
           </p>
         </li>

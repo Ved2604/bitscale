@@ -196,7 +196,7 @@ const GrowthCard = () => {
               </defs>
             </svg>
           </div>
-          <p className="text-zinc-600 text-sm xl:text-base">
+          <p className="text-zinc-600 text-sm xl:text-base text-left">
             Personalized outreach at scale
           </p>
         </li>
